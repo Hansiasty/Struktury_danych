@@ -9,7 +9,6 @@ private:
     struct Box { ;
         int dane;
         Box *nast;
-
         Box(int D, Box *adres = nullptr) {}
     };
 
@@ -17,12 +16,11 @@ private:
     Box *pocz;
     int ilejest; //opcjonalne
 public:
-//konstruktor
-//destruktor
-//funkcja wypisująca
-    void wstaw(int a); //zakladamy ze lista jest posortowana, wstawiamy "wagoniki" z liczba a tak zeby nadal byla posortowana
-    void usunJeden(int a);
-    void usunWszystkie(int a); //usuwa wszystko z elementem a
-
+Lista();
+~Lista();
+void wypisz();
+void wstaw(int a); //zakladamy ze lista jest posortowana, wstawiamy "wagoniki" z liczba a tak zeby nadal byla posortowana
+// void usunJeden(int a);
+// void usunWszystkie(int a); //usuwa wszystko z elementem a
 };
 #endif //CWICZENIA7_LISTA_H
