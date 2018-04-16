@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bartek/Documents/GitHub/Struktury_danych/cwicz8/main.cpp
+iostream
+-
+towar.h
+/Users/bartek/Documents/GitHub/Struktury_danych/cwicz8/towar.h
+
+/Users/bartek/Documents/GitHub/Struktury_danych/cwicz8/towar.h
+iostream
+-
+
