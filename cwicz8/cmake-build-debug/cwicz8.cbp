@@ -81,6 +81,12 @@
 		<Unit filename="/Users/bartek/Documents/GitHub/Struktury_danych/cwicz8/main.cpp">
 			<Option target="cwicz8"/>
 		</Unit>
+		<Unit filename="/Users/bartek/Documents/GitHub/Struktury_danych/cwicz8/towar.cpp">
+			<Option target="cwicz8"/>
+		</Unit>
+		<Unit filename="/Users/bartek/Documents/GitHub/Struktury_danych/cwicz8/towar.h">
+			<Option target="cwicz8"/>
+		</Unit>
 		<Unit filename="/Users/bartek/Documents/GitHub/Struktury_danych/cwicz8/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

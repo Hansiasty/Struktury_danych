@@ -150,6 +150,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/cwicz8.dir/build.make CMakeFiles/cwicz8.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+towar.o: towar.cpp.o
+
+.PHONY : towar.o
+
+# target to build an object file
+towar.cpp.o:
+	$(MAKE) -f CMakeFiles/cwicz8.dir/build.make CMakeFiles/cwicz8.dir/towar.cpp.o
+.PHONY : towar.cpp.o
+
+towar.i: towar.cpp.i
+
+.PHONY : towar.i
+
+# target to preprocess a source file
+towar.cpp.i:
+	$(MAKE) -f CMakeFiles/cwicz8.dir/build.make CMakeFiles/cwicz8.dir/towar.cpp.i
+.PHONY : towar.cpp.i
+
+towar.s: towar.cpp.s
+
+.PHONY : towar.s
+
+# target to generate assembly for a file
+towar.cpp.s:
+	$(MAKE) -f CMakeFiles/cwicz8.dir/build.make CMakeFiles/cwicz8.dir/towar.cpp.s
+.PHONY : towar.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... towar.o"
+	@echo "... towar.i"
+	@echo "... towar.s"
 .PHONY : help
 
 

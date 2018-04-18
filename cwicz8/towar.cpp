@@ -10,7 +10,12 @@ void Towar::wypiszTowar() {
     cout<<
 };
 
-bool bool Towar::operator<=(towar &x) {};
+bool bool Towar::operator<=(Towar &x) {
+if(kod<=x.kod)
+    return true;
+else
+    return false;
+};
 
 Spis_towarow::Spis_towarow() {
     pocz=null;

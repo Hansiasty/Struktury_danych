@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/bartek/Documents/GitHub/Struktury_danych/cwicz8/main.cpp" "/Users/bartek/Documents/GitHub/Struktury_danych/cwicz8/cmake-build-debug/CMakeFiles/cwicz8.dir/main.cpp.o"
+  "/Users/bartek/Documents/GitHub/Struktury_danych/cwicz8/towar.cpp" "/Users/bartek/Documents/GitHub/Struktury_danych/cwicz8/cmake-build-debug/CMakeFiles/cwicz8.dir/towar.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

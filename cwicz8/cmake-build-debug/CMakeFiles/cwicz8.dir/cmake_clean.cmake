@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cwicz8.dir/main.cpp.o"
+  "CMakeFiles/cwicz8.dir/towar.cpp.o"
   "cwicz8.pdb"
   "cwicz8"
 )
