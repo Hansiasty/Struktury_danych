@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cwiczenia10"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cwiczenia10">
+				<Option output="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/cwiczenia10" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 cwiczenia10"/>
+					<CompileFile command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cwiczenia10/fast">
+				<Option output="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/cwiczenia10" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 cwiczenia10/fast"/>
+					<CompileFile command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/local/bin/gmake -j4 -f &quot;/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/Student.cpp">
+			<Option target="cwiczenia10"/>
+		</Unit>
+		<Unit filename="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/Student.h">
+			<Option target="cwiczenia10"/>
+		</Unit>
+		<Unit filename="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/lista.h">
+			<Option target="cwiczenia10"/>
+		</Unit>
+		<Unit filename="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/main.cpp">
+			<Option target="cwiczenia10"/>
+		</Unit>
+		<Unit filename="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/student.h">
+			<Option target="cwiczenia10"/>
+		</Unit>
+		<Unit filename="/Users/bartek/Documents/GitHub/Struktury_danych/cwiczenia10/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
