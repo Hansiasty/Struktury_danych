@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/bartek/Documents/GitHub/Struktury_danych/Cwiczenia13/dane.cpp">
+			<Option target="Cwiczenia13"/>
+		</Unit>
 		<Unit filename="/Users/bartek/Documents/GitHub/Struktury_danych/Cwiczenia13/dane.h">
 			<Option target="Cwiczenia13"/>
 		</Unit>

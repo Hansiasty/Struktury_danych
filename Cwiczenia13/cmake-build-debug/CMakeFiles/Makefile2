@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /Users/bartek/Documents/GitHub/Struktury_danych/Cwiczenia13/c
 CMakeFiles/Cwiczenia13.dir/all:
 	$(MAKE) -f CMakeFiles/Cwiczenia13.dir/build.make CMakeFiles/Cwiczenia13.dir/depend
 	$(MAKE) -f CMakeFiles/Cwiczenia13.dir/build.make CMakeFiles/Cwiczenia13.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/bartek/Documents/GitHub/Struktury_danych/Cwiczenia13/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Cwiczenia13"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/bartek/Documents/GitHub/Struktury_danych/Cwiczenia13/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target Cwiczenia13"
 .PHONY : CMakeFiles/Cwiczenia13.dir/all
 
 # Include target in all.
@@ -76,7 +76,7 @@ all: CMakeFiles/Cwiczenia13.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Cwiczenia13.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bartek/Documents/GitHub/Struktury_danych/Cwiczenia13/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bartek/Documents/GitHub/Struktury_danych/Cwiczenia13/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Cwiczenia13.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bartek/Documents/GitHub/Struktury_danych/Cwiczenia13/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Cwiczenia13.dir/rule

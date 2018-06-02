@@ -3,4 +3,4 @@ project(Cwiczenia13)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Cwiczenia13 main.cpp dane.h kontener.h)
+add_executable(Cwiczenia13 main.cpp dane.h kontener.h dane.cpp)

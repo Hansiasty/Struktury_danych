@@ -123,6 +123,33 @@ Cwiczenia13/fast:
 	$(MAKE) -f CMakeFiles/Cwiczenia13.dir/build.make CMakeFiles/Cwiczenia13.dir/build
 .PHONY : Cwiczenia13/fast
 
+dane.o: dane.cpp.o
+
+.PHONY : dane.o
+
+# target to build an object file
+dane.cpp.o:
+	$(MAKE) -f CMakeFiles/Cwiczenia13.dir/build.make CMakeFiles/Cwiczenia13.dir/dane.cpp.o
+.PHONY : dane.cpp.o
+
+dane.i: dane.cpp.i
+
+.PHONY : dane.i
+
+# target to preprocess a source file
+dane.cpp.i:
+	$(MAKE) -f CMakeFiles/Cwiczenia13.dir/build.make CMakeFiles/Cwiczenia13.dir/dane.cpp.i
+.PHONY : dane.cpp.i
+
+dane.s: dane.cpp.s
+
+.PHONY : dane.s
+
+# target to generate assembly for a file
+dane.cpp.s:
+	$(MAKE) -f CMakeFiles/Cwiczenia13.dir/build.make CMakeFiles/Cwiczenia13.dir/dane.cpp.s
+.PHONY : dane.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Cwiczenia13"
+	@echo "... dane.o"
+	@echo "... dane.i"
+	@echo "... dane.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Cwiczenia13.dir/main.cpp.o  -o Cwiczenia13 
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Cwiczenia13.dir/main.cpp.o CMakeFiles/Cwiczenia13.dir/dane.cpp.o  -o Cwiczenia13 
